@@ -1,6 +1,24 @@
 # Housing Price Prediction
 
-Dataset:
-https://www.kaggle.com/puxama/bostoncsv
+## Problem
+Predict housing prices using regression techniques.
 
-This project predicts housing prices using regression models.
+## Notebook
+The implementation is available in:
+
+BA_Lab_Week1_HousePricePrediction.ipynb
+
+## Algorithms Used
+- Linear Regression
+- Random Forest Regressor
+
+## Libraries Used
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
+## How to Run
+
+1. Open the notebook in Google Colab
+2. Run all cells sequentially
