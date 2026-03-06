@@ -3,6 +3,9 @@
 ## Problem
 Predict housing prices using regression techniques.
 
+## Dataset
+house_data.csv
+
 ## Notebook
 The implementation is available in:
 
